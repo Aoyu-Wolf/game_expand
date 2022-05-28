@@ -1,0 +1,10 @@
+window.extension_update={
+	version:'0.1',
+	update:'0.0',
+	changeLog:[
+		'恭喜你,测试扩展更新文件成功'
+	],
+	files:[
+		'extension/高达宇宙同人作/extension.js'
+	]
+};
